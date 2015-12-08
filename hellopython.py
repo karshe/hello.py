@@ -1,5 +1,8 @@
-# -*- coding: utf-8 -*-
 """
+LEARNING PYTHON 101
+DATA STRUCTURE & ALGORIHM WITH PYTHON
+by Lee, Kent D., Hubbard, Steve
+
 @author: https://github.com/karshe
 @project : https://github.com/karshe/hello_py
 """
